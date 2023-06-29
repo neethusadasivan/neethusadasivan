@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @neethusadasivan
 - 👀 I’m interested in coding in Swift
-- 🌱 I’m currently learning iOS and Swift
+- 🌱 I’m currently learning SwiftUI
 
 
 <!---
